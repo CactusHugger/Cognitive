@@ -12,9 +12,9 @@ HOW TO USE:
 
 # Gesture Automation
 Runs using Datavyu API
---------
+
 Similar to JA automation and uses onset/offset algorithm to sort specific data
---------
+
 HOW TO USE:
 - 1) Open Datavyu
 - 2) Open the specific opf file you want to run it on
